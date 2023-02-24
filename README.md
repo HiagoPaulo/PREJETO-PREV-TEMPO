@@ -1,4 +1,4 @@
-<h1>PREJETO Prev Tempo</h1>
+<h1>PROJETO Prev Tempo</h1>
 <br>
 <br>
 <h2>Esse é um projeto criado por mim no curso do <a href="https://rodolfomori.com.br/devclub"> DevClub</a>.</h2>
